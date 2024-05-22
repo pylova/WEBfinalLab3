@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.base-text {
+    color: white;
+    text-align: center;
+    position: relative;
+    font-family: "Fredoka", sans-serif;
+}
+
+.header-footer {
+    background-color: #33AB5F;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.main-container {
+    background-color: #8CDBA9;
+    padding: 0;
+    margin: auto;
+}
+
+.nav-link {
+    color: white !important;
+    font-family: "Fredoka", sans-serif;
+}
